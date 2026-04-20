@@ -1,0 +1,6 @@
+# Fichiers sons (lourds, à re-télécharger manuellement sur chaque machine)
+sounds/*.wav
+sounds/*.mp3
+
+# Ne pas ignorer la config active
+!sounds/active.txt
